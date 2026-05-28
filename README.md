@@ -150,14 +150,6 @@ Todas as imagens utilizam o componente `<Image>` otimizado do Next.js com:
 - Favicon responsivo com suporte a modo escuro/claro
 - Estrutura semântica HTML apropriada
 
-## 🤝 Contribuindo
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/amazing-feature`)
-3. Commit suas mudanças (`git commit -m 'Add some amazing feature'`)
-4. Push para a branch (`git push origin feature/amazing-feature`)
-5. Abra um Pull Request
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
